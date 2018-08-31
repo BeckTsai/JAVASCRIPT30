@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <title>Console Tricks!</title>
+</head>
+
+<body>
+
+  <p onClick="makeGreen()">×BREAK×DOWN×</p>
+
+  <script>
+    const dogs = [{ name: 'Snickers', age: 2 }, { name: 'hugo', age: 8 }];
+
+    function makeGreen() {
+      const p = document.querySelector('p');
+      p.style.color = '#BADA55';
+      p.style.fontSize = '50px';
+    }
+
+    // Regular
+    console.log('一般輸出')
+
+    // Interpolated
+    // 更換字串
+    console.log('hello %s', 'world');
+    console.log("我的年龄是 %f ", 1.23);
+    // Styled
+    console.log('%c Hello', "color:red")
+    // warning!
+    console.warn('警告樣式')
+    // Error :|
+    console.error('錯誤樣式')
+    // Info
+    console.info('顯示圖標')
+    // Testing
+    console.assert(1 === 2, 'No!')
+    // clearing
+    // console.clear()
+
+    // Viewing DOM Elements
+    console.dir(dogs)
+    // Grouping together
+    dogs.forEach(dog => {
+      console.groupCollapsed(`${dog.name}`);
+      console.log(`This is ${dog.name}`);
+      console.log(`${dog.name} is ${dog.age} years old`);
+      console.log(`${dog.name} is ${dog.age * 7} dog years old`);
+      console.groupEnd(`${dog.name}`);
+    });
+
+    // counting
+    const text = ['a', 'b', 'b', 'a', 'f', 'f', 'e', 'q']
+    text.forEach(letter => console.count(letter))
+    // timing
+    console.time('fetching data');
+    fetch('https://api.github.com/users/wesbos')
+      .then(data => data.json())
+      .then(data => {
+        console.timeEnd('fetching data');
+        console.log(data);
+      });
+
+    console.table(dogs);
+
+  </script>
+</body>
+
+</html>
