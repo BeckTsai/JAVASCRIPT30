@@ -9,29 +9,28 @@
 
 
 ## 列表
-| No | 主題 | 筆記 | 
+| No | 主題 | Demo | 
 | --- | --- | --- | 
-| 01 | JavaScript Drum Kit | [筆記](https://github.com/BeckTsai/JAVASCRIPT30/blob/master/1.%20drum%20kit/index.html) | 
-| 02 | JS and CSS Clock | [筆記](https://guahsu.io/2017/05/JavaScript30-02-JS-and-CSS-Clock/) |
-| 03 | CSS Variables | [筆記](https://guahsu.io/2017/05/JavaScript30-03-CSS-Variables/) |
-| 04 | Array Cardio Day 1 | [筆記](https://guahsu.io/2017/05/JavaScript30-04-Array-Cardio-Day-1/) |
-| 05 | Flex Panel Gallery | [筆記](https://guahsu.io/2017/05/JavaScript30-05-Flex-Panel-Gallery/) |
-| 06 | Type Ahead | [筆記](https://guahsu.io/2017/05/JavaScript30-06-Type-Ahead/) | 
-| 07 | Array Cardio Day 2 | [筆記](https://guahsu.io/2017/05/JavaScript30-07-Array-Cardio-Day-2/) |
-| 09 | Dev Tools Domination | [筆記](https://guahsu.io/2017/06/JavaScript30-09-Dev-Tools-Domination/) |
-| 10 | Hold Shift and Check Checkboxes | [筆記](https://guahsu.io/2017/07/JavaScript30-10-Hold-Shift-and-Check-Checkboxes/) | 
-| 12 | Key Sequence Detection | [筆記](https://guahsu.io/2017/07/JavaScript30-12-Key-Sequence-Detection/) |
-| 13 | Slide in on Scroll | [筆記](https://guahsu.io/2017/08/JavaScript30-13-Slide-in-on-Scroll/) |
-| 14 | JavaScript References VS Copying | [筆記](https://guahsu.io/2017/08/JavaScript30-14-JavaScript-References-VS-Copying/) |
-| 15 | LocalStorage | [筆記](https://guahsu.io/2017/09/JavaScript30-15-LocalStorage/) |
-| 16 | Mouse Move Shadow | [筆記](https://guahsu.io/2017/10/JavaScript30-16-Mouse-Move-Shadow/) |
-| 17 | Sort Without Articles | [筆記](https://guahsu.io/2017/10/JavaScript30-17-Sort-Without-Articles/) |
-| 18 | Adding Up Times with Reduce | [筆記](https://guahsu.io/2017/10/JavaScript30-18-Adding-Up-Times-with-Reduce/) |
-| 22 | Follow Along Link Highlighter | [筆記](https://guahsu.io/2017/10/JavaScript30-22-Follow-Along-Link-Highlighter/) |
-| 23 | Speech Synthesis | [筆記](https://guahsu.io/2017/10/JavaScript30-23-Speech-Synthesis/) |
-| 24 | Sticky Nav | [筆記](https://guahsu.io/2017/10/JavaScript30-24-Sticky-Nav/) |
-| 25 | Event Capture, Propagation, Bubbling and Once | [筆記](https://guahsu.io/2017/10/JavaScript30-25-Event-Capture-Propagation-Bubbling-and-Once/) |
-| 26 | Stripe Follow Along Nav | [筆記](https://guahsu.io/2017/10/JavaScript30-26-Stripe-Follow-Along-Nav/) |
-| 27 | Click and Drag | [筆記](https://guahsu.io/2017/10/JavaScript30-27-Click-and-Drag/) | 
-| 29 | Countdown Timer | [筆記](https://guahsu.io/2017/11/JavaScript30-29-Countdown-Timer/) | 
-| 30 | Whack A Mole  | [筆記](https://guahsu.io/2017/11/JavaScript30-30-Whack-A-Mole/) |
+| 01 | JavaScript Drum Kit | [Demo](https://becktsai.github.io/JAVASCRIPT30/1.%20drum%20kit/index.html ) | 
+| 02 | JS and CSS Clock | [Demo](https://becktsai.github.io/JAVASCRIPT30/2.%20CSS%2B%20JS%20Clock/index.html ) | 
+| 03 | CSS Variables |  [Demo](https://becktsai.github.io/JAVASCRIPT30/03%20-%20CSS%20Variables/index.html ) | 
+| 04 | Array Cardio Day 1 | [Demo](https://becktsai.github.io/JAVASCRIPT30/04%20-%20Array%20Cardio%20Day%201/index.html ) | 
+| 05 | Flex Panel Gallery | [Demo](https://becktsai.github.io/JAVASCRIPT30/05%20-%20Flex%20Panel%20Gallery/index.html ) | 
+| 06 | Type Ahead | [Demo](https://becktsai.github.io/JAVASCRIPT30/06%20-%20Type%20Ahead/index.html ) | 
+| 07 | Array Cardio Day 2 | [Demo](https://becktsai.github.io/JAVASCRIPT30/07%20-%20Array%20Cardio%20Day%202/index.html ) | 
+| 09 | Dev Tools Domination |  [Demo](https://becktsai.github.io/JAVASCRIPT30/09%20-%20Dev%20Tools%20Domination) | 
+| 10 | Hold Shift and Check Checkboxes |  [Demo](https://becktsai.github.io/JAVASCRIPT30/10%20-%20Hold%20Shift%20and%20Check%20Checkboxes/index.html ) | 
+| 12 | Key Sequence Detection |  [Demo](https://becktsai.github.io/JAVASCRIPT30/12%20-%20Key%20Sequence%20Detection/index.html ) | 
+| 13 | Slide in on Scroll |  [Demo](https://becktsai.github.io/JAVASCRIPT30/13%20-%20Slide%20in%20on%20Scroll/index.html ) | 
+| 14 | JavaScript References VS Copying |  [Demo](https://becktsai.github.io/JAVASCRIPT30/14%20-%20JavaScript%20References%20VS%20Copying/index.html ) | 
+| 15 | LocalStorage |  [Demo](https://becktsai.github.io/JAVASCRIPT30/15%20-%20LocalStorage/index.html ) | 
+| 16 | Mouse Move Shadow |  [Demo](https://becktsai.github.io/JAVASCRIPT30/16%20-%20Mouse%20Move%20Shadow/index.html ) | 
+| 17 | Sort Without Articles |  [Demo](https://becktsai.github.io/JAVASCRIPT30/17%20-%20Sort%20Without%20Articles/index.html ) | 
+| 18 | Adding Up Times with Reduce |  [Demo](https://becktsai.github.io/JAVASCRIPT30/18%20-%20AddingUpTimesWithReduce/index.html ) | 
+| 22 | Follow Along Link Highlighter |  [Demo](https://becktsai.github.io/JAVASCRIPT30/22%20-%20Follow%20Along%20Link%20Highlighter/index.html ) | 
+| 24 | Sticky Nav | [Demo](https://becktsai.github.io/JAVASCRIPT30/24%20-%20Sticky%20Nav/index.html ) | 
+| 25 | Event Capture, Propagation, Bubbling and Once | [Demo](https://becktsai.github.io/JAVASCRIPT30/25%20-%20Event%20Capture%2C%20Propagation%2C%20Bubbling%20and%20Once/index.html ) | 
+| 26 | Stripe Follow Along Nav |  [Demo](https://becktsai.github.io/JAVASCRIPT30/26%20-%20Strip%20Follow%20Along%20Nav/index.html ) | 
+| 27 | Click and Drag |  [Demo](https://becktsai.github.io/JAVASCRIPT30/27%20-%20Click%20and%20Drag/index.html ) | 
+| 29 | Countdown Timer | [Demo](https://becktsai.github.io/JAVASCRIPT30/29%20-%20Countdown%20Timer/index.html ) | 
+| 30 | Whack A Mole  | [Demo](https://becktsai.github.io/JAVASCRIPT30/30%20-%20Whack%20A%20Mole/index.html) | 
